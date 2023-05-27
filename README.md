@@ -12,4 +12,10 @@
 7. Conversation History cache <br />
 
 # Running the backend Server:
-Download all the dependencies from the package.json file and run the script <strong> npm run dev </strong>
+### `npm run dev`
+
+Runs the app in the development mode uses nodemon.\
+Open [http://localhost:5000](http://localhost:5000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
