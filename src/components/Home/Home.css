@@ -1,0 +1,33 @@
+
+.bg-img {
+    background: url("../../images/AI.jpeg");
+    height: 91vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.color-pink {
+    color: black;
+}
+.content-style {
+    
+    font-size: 20px;
+}
+/*
+.text-box {
+    color:#7fff00;
+    margin-left: 10px;
+    margin-right: 25px;
+    padding-top: 10%;
+    padding-left: 60%;
+    font-size: 17px;
+}
+
+.text-box h2 {
+    color: darkgreen;
+    padding: 10x;
+    font-size: 50px;
+    background-color: whitesmoke;
+    border-radius: 25px;
+    line-height: 160px;
+}*/
